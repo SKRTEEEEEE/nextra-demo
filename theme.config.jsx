@@ -1,3 +1,6 @@
+/* eslint-disable */
+// @ts-nocheck
+
 export default {
   logo: <strong>Nextra Demo</strong>,
   project: {
